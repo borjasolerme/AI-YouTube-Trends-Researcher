@@ -90,6 +90,6 @@ The AI YouTube Trends Researcher is an experimental tool and should be used for 
 
 ## Contact
 
-For any questions or feedback, please reach out to the project maintainer.
+For any questions or feedback, please reach out me on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/borjasolerr?style=social)](https://twitter.com/borjasolerr)
 
-Happy video idea generation!
+🙋🏻‍♂️ before you go, if you want to try some AI products I'm building, check out [videotok.app](https://videotok.app) and [editby.ai](https://editby.ai). Videotok.app is an AI-powered platform that creates viral Shorts and videos from text, while editby.ai helps you create SEO-optimized content that ranks on Google and social media.
